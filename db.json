@@ -1,21 +1,54 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "email": "test@gmail.com",
-      "first_name": "Teste",
-      "last_name": "1",
-      "avatar": "https://reqres.in/img/faces/12-image.jpg"
-    },
-    {
-      "id": 2,
-      "email": "test@gmail.com",
-      "first_name": "Teste",
-      "last_name": "2",
-      "avatar": "https://reqres.in/img/faces/12-image.jpg"
+    "page": 2,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 7,
+            "email": "joao.victor@hotmail.com",
+            "first_name": "Joao",
+            "last_name": "Victor",
+            "avatar": "https://instagram.fcgh5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/75394902_559280191304276_1320689537143275520_n.jpg?_nc_ht=instagram.fcgh5-1.fna.fbcdn.net&_nc_ohc=gprcgSxGB8UAX9-8Tsp&edm=ABfd0MgBAAAA&ccb=7-4&oh=bf14949901f3d402873078d9f25f39ac&oe=6151CC4B&_nc_sid=7bff83"
+        },
+        {
+            "id": 8,
+            "email": "dua@hotmail.com",
+            "first_name": "Dua",
+            "last_name": "Lipa",
+            "avatar": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+        },
+        {
+            "id": 9,
+            "email": "oliva.rodrigo@hotmail.com",
+            "first_name": "Oliva",
+            "last_name": "Rodrigo",
+            "avatar": "https://img.r7.com/images/olivia-rodrigo-15012021123856027?dimensions=771x420&no_crop=true"
+        },
+        {
+            "id": 10,
+            "email": "peter@hotmail.com",
+            "first_name": "Peter",
+            "last_name": "Paker",
+            "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRucWBKX6gRpYsbnVng7J1Va-oHNkLsEcx6Qg&usqp=CAU"
+        },
+        {
+            "id": 11,
+            "email": "thor@hotmail.com",
+            "first_name": "Thor",
+            "last_name": "",
+            "avatar": "https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/08/Chris-Hemsworth-Thor.jpg"
+        },
+        {
+            "id": 12,
+            "email": "tony@hotmail.com",
+            "first_name": "Tony",
+            "last_name": "Stark",
+            "avatar": "https://static1.purebreak.com.br/articles/9/93/70/9/@/363145-tony-stark-robert-downey-jr-salvaria-diapo-2.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
