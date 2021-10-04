@@ -1,8 +1,21 @@
 {
-"posts":[
-  {
-    "message": "https://images.dog.ceo/breeds/terrier-bedlington/n02093647_3215.jpg",
-    "status": "success"
+  "posts": [
+    {
+      "id": 1,
+      "email": "joao@hotmail.com",
+      "first_name": "Joao",
+      "last_name": "Victor",
+      "avatar": "https://www.instagram.com/p/B5foiBVAdbr9xNA-aypy1fYpfBEc0BKBbKVW6E0/"
+    },
+    {
+      "id": 2,
+      "email": "dua@hotmail.com",
+      "first_name": "Dua",
+      "last_name": "Lipa",
+      "avatar": "https://claudia.abril.com.br/wp-content/uploads/2020/01/dualipa-1.jpg"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-],
 }
