@@ -1,11 +1,4 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "avatar": "https://images.dog.ceo/breeds/terrier-bedlington/n02093647_3215.jpg"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "message": "https://images.dog.ceo/breeds/terrier-bedlington/n02093647_3215.jpg",
+    "status": "success"
 }
